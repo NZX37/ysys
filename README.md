@@ -1,8 +1,13 @@
 # YouSnoozeYouSolve Clock
+<img width="1113" height="796" alt="image" src="https://github.com/user-attachments/assets/68b48f1d-d0f7-488c-b57a-33ea270ac92a" />
 
 ### Inspiration
 
-I wanted to create an alarm clock, right now i rely on my phone and i always end up snoozing until I am late. So i thought why not make snoozing a pain while also "waking" me up?
+I wanted to create an alarm clock, right now i rely on my phone and i always end up snoozing until I am late. Other times my alarm wakes me up but it is so easy to snooze, its one button. So i thought why not make snoozing a pain while also "waking" me up?
+
+### Description
+
+The clock features a numberpad, screen and buzzer. The screen shows the time which is updated with wifi when available and internally counted when not connected. You can set alarms which force you to answer math questions to stop the alarm. The case has a glasses holder and watch stand (multifunctionality!!)
 
 ### Specifications
 
