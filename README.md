@@ -1,7 +1,5 @@
 # YouSnoozeYouSolve Clock
 
-
-
 ### Inspiration
 
 I wanted to create an alarm clock, right now i rely on my phone and i always end up snoozing until I am late. So i thought why not make snoozing a pain while also "waking" me up?
