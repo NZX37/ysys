@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'yousnoozeyousolveFULLCASE.step',
-/* time_stamp */ '2026-09-12T08:49:05+08:00',
+/* name */ 'yousnoozeyousolveFULLCASEASSEMBLY.step',
+/* time_stamp */ '2026-09-15T17:00:18+08:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.2',
@@ -19403,7 +19403,7 @@ SOLID_ANGLE_UNIT()
 #18418=SHAPE_REPRESENTATION('',(#11649),#18234);
 #18419=SHAPE_REPRESENTATION('',(#11695),#18235);
 #18420=PRODUCT_DEFINITION_CONTEXT('part definition',#18533,'design');
-#18421=PRODUCT_DEFINITION('yousnoozeyousolve 1','yousnoozeyousolve v4',
+#18421=PRODUCT_DEFINITION('yousnoozeyousolve 1','yousnoozeyousolve v5',
 #18458,#18420);
 #18422=PRODUCT_DEFINITION('D_DO-35_SOD27_P7.62mm_Horizontal',
 'D_DO-35_SOD27_P7.62mm_Horizontal (1)',#18459,#18420);
@@ -19510,8 +19510,8 @@ SOLID_ANGLE_UNIT()
 #18492=PRODUCT_DEFINITION_FORMATION('',$,#18569);
 #18493=PRODUCT_DEFINITION_FORMATION('',$,#18570);
 #18494=PRODUCT_DEFINITION_FORMATION('',$,#18571);
-#18495=PRODUCT_RELATED_PRODUCT_CATEGORY('yousnoozeyousolve v4',
-'yousnoozeyousolve v4',(#18535));
+#18495=PRODUCT_RELATED_PRODUCT_CATEGORY('yousnoozeyousolve v5',
+'yousnoozeyousolve v5',(#18535));
 #18496=PRODUCT_RELATED_PRODUCT_CATEGORY(
 'D_DO-35_SOD27_P7.62mm_Horizontal (1)',
 'D_DO-35_SOD27_P7.62mm_Horizontal (1)',(#18536));
@@ -19595,7 +19595,7 @@ SOLID_ANGLE_UNIT()
 #18533=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #18534=PRODUCT_CONTEXT('part definition',#18533,'mechanical');
-#18535=PRODUCT('yousnoozeyousolve 1','yousnoozeyousolve v4',
+#18535=PRODUCT('yousnoozeyousolve 1','yousnoozeyousolve v5',
 'KiCad electronic assembly',(#18534));
 #18536=PRODUCT('D_DO-35_SOD27_P7.62mm_Horizontal',
 'D_DO-35_SOD27_P7.62mm_Horizontal (1)',$,(#18534));
